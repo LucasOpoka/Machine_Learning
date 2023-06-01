@@ -1,3 +1,3 @@
 # Machine_Learning
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LucasOpoka/Machine_Learning/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LucasOpoka/Machine_Learning/HEAD){:target="_blank"}
